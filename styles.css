@@ -4,13 +4,8 @@
     padding: 10px;
 }
 
-.nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex; /* Use flexbox to align items horizontally */
-}
-
-.nav ul li {
-    margin-right: 1rem;
+.nav ul li{
+	display:inline;
+	margin-right:1rem;
+	list-style:none;
 }
