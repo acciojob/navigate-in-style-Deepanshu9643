@@ -4,8 +4,12 @@
     padding: 10px;
 }
 
+.nav ul{
+	display:flex
+}
+
 .nav ul li{
-	display:flex;
+	
 	margin-right:1rem;
 	list-style:none;
 }
